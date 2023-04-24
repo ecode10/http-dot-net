@@ -224,34 +224,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\MBorges\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/Users/mauriciojunior/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MBorges\\source\\repos\\WebAPI-Test\\WebAPI-Test\\WebAPI-Test.csproj",
+      "projectUniqueName": "/Users/mauriciojunior/Documents/GitHub/http-dot-net/WebAPI-Test/WebAPI-Test.csproj",
       "projectName": "WebAPI-Test",
-      "projectPath": "C:\\Users\\MBorges\\source\\repos\\WebAPI-Test\\WebAPI-Test\\WebAPI-Test.csproj",
-      "packagesPath": "C:\\Users\\MBorges\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MBorges\\source\\repos\\WebAPI-Test\\WebAPI-Test\\obj\\",
+      "projectPath": "/Users/mauriciojunior/Documents/GitHub/http-dot-net/WebAPI-Test/WebAPI-Test.csproj",
+      "packagesPath": "/Users/mauriciojunior/.nuget/packages/",
+      "outputPath": "/Users/mauriciojunior/Documents/GitHub/http-dot-net/WebAPI-Test/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\MBorges\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/mauriciojunior/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
+        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {},
-        "https://ballhort.pkgs.visualstudio.com/_packaging/Ballhort/nuget/v3/index.json": {},
         "https://nuget.telerik.com/nuget": {}
       },
       "frameworks": {
@@ -294,7 +286,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{D84E4237-6384-4899-839F-CB06B9A70E2F}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.WebAPI-Test PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebAPI-Test/TestHttp/app.http">
+    <Files>
+      <File FileName="WebAPI-Test/TestHttp/app.http" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebAPI-Test">
+            <Node name="WebAPI-Test" expanded="True">
+              <Node name="TestHttp" expanded="True">
+                <Node name="app.http" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
