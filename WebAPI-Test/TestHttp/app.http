@@ -1,0 +1,18 @@
+GET https://localhost:7158/WeatherForecast
+
+###
+
+@podId = 12
+
+GET https://localhost:7158/WeatherForecast/GetData/{{podId}}
+
+###
+
+POST https://localhost:7158/WeatherForecast/PostData
+Content-Type:application/json
+
+{
+  "date": "2023-04-22",
+  "temperatureC": 1,
+  "summary": "Hot"
+}
